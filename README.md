@@ -1,0 +1,2 @@
+# Aviutl2_Plugin_RippleDelete
+Aviutl2にリップル削除を追加するプラグインです。
